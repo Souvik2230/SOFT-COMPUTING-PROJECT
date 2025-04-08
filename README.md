@@ -1,4 +1,5 @@
-# GA-PSO Hybrid Optimization Algorithm
+# GA for Personalized Medicine Optimization
+
 
 ## Overview
 
